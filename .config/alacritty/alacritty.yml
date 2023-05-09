@@ -1,0 +1,12 @@
+window:
+  padding:
+    x: 7
+    y: 7
+
+font:
+  size: 15
+  normal:
+    family: Sauce Code Pro NerdFont
+
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
